@@ -14,7 +14,7 @@ States with higher Google Trends search interest for mental health-related terms
 
 A machine learning model trained on past trends and demographic indicators will predict 2024 utilization rates with an RMSE under 5 points and an R-squared above 0.75 for at least 70% of states. This project builds upon an existing study conducted by a student's research team, which explores predictive modeling of mental health service utilization using Google Trends data. Their preliminary findings demonstrated promising results but require methodological enhancements to improve model robustness, predictive accuracy, and interpretability. This project aims to develop a more robust and accurate predictive model by refining feature engineering, optimizing machine learning methodologies, and enhancing hyperparameter tuning techniques. The insights gained from this project could contribute to an original research paper, positioning the work for academic publication.
 
-## Data Sources  
+## Data Sources:  
 - **NSUMHSS** (2013–2023): Facility-level mental health service availability.
 - **Google Trends**: Aggregated state-level search interest for mental health topics.
 - **COVID Flag**: 2020–2022 period indicator to control for pandemic-related disruptions.
