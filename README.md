@@ -26,13 +26,13 @@ Required libraries: pandas, numpy, jupyter, google-colab
 
 ### Installation:
 Clone the repository:
-git clone https://github.com/AlourdesJ/DSE6311OM_SP2025R2_Data-Science-Capstone.git
-cd DSE6311OM_SP2025R2_Data-Science-Capstone
+git clone https://github.com/AlourdesJ/DSE6311OM_SP2025R2_Data-Science-Capstone
+
 Install required libraries:
-bash
+
 pip install -r requirements.txt
 If requirements.txt is unavailable, manually install the required packages:
-bash
+
 pip install pandas numpy jupyter google-colab
 
 ### Google Colab Setup:
