@@ -17,7 +17,7 @@ A machine learning model trained on past trends and demographic indicators will 
 ## Data Sources:  
 - **NSUMHSS** (2013–2023): Facility-level mental health service availability.
 - **Google Trends**: Aggregated state-level search interest for mental health topics.
-- **COVID Flag**: 2020–2022 period indicator to control for pandemic-related disruptions.
+- **COVID-19 Flag**: 2020–2022 period indicator to control for pandemic-related disruptions.
 
 ## Environment Setup:
 Prerequisites:
